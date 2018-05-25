@@ -4,4 +4,4 @@ title: Hübsch
 ---
 
 "Was hübsch ist, kann nicht schön sein."  
-(Ludwig Wittgenstein) 
+(Ludwig Wittgenstein)
